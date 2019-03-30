@@ -10,7 +10,7 @@ move
 150 200 0
 apply
 display
-#clear the edge matrix, test the sphere
+#clear the polygon matrix, test the sphere
 clear
 sphere
 0 0 0 200
@@ -49,7 +49,7 @@ move
 250 250 0
 apply
 display
-#clear the edge matrix, test torus
+#clear the polygon matrix, test torus
 clear
 torus
 0 0 0 25 150
